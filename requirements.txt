@@ -24,7 +24,7 @@ identify==1.4.19
 idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib==0.15.1
+joblib==1.2.0
 lxml==4.5.1
 MarkupSafe==1.1.1
 nodeenv==1.4.0
